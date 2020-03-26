@@ -1,12 +1,6 @@
 {
   "name": "lab.hisasann.dev",
   "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test"
-  },
   "repository": "git@github.com:hisasann/lab.hisasann.dev.git",
   "author": "hisamatsu yoshiyuki <hisasann25@gmail.com>",
   "license": "MIT",
